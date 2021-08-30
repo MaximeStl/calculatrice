@@ -14,7 +14,7 @@ public class calculatrice {
 		System.out.println("Entrer le second nombre");
 		numberTwo = keyboard.nextInt();
 
-		System.out.println("La somme de " + numberOne + "et" + numberTwo + "est de :" + (numberOne + numberTwo));
+		System.out.println("La somme de " + numberOne + " et " + numberTwo + "est de : " + (numberOne + numberTwo));
 	}
 
 }
